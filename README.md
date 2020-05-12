@@ -14,3 +14,9 @@
 
   - [Implementación de un sitio web en Azure con Azure App Service](https://docs.microsoft.com/es-es/learn/paths/deploy-a-website-with-azure-app-service/)
   - [Creación de aplicaciones sin servidor](https://docs.microsoft.com/es-es/learn/paths/create-serverless-applications/)
+
+## DEMOs
+
+### Azure Functions
+- [Desarrollo de Azure Functions con Visual Studio Code](https://docs.microsoft.com/es-es/azure/azure-functions/functions-develop-vs-code?tabs=csharp)
+- [Creación de función durable en c#](https://docs.microsoft.com/es-es/azure/azure-functions/durable/durable-functions-create-first-csharp?pivots=code-editor-vscode)
