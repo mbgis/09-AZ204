@@ -17,6 +17,12 @@
   - [Creación de aplicaciones sin servidor](https://docs.microsoft.com/es-es/learn/paths/create-serverless-applications/)
   - [Almacenamiento de datos en Azure](https://docs.microsoft.com/es-es/learn/paths/store-data-in-azure/)
 
+## Documentation
+
+  - [Azure Storage](https://docs.microsoft.com/en-us/azure/storage/)
+  - [Azure Blob Storage](https://docs.microsoft.com/en-us/azure/storage/blobs/)
+  - [Azure Cosmo DB](https://docs.microsoft.com/en-us/azure/cosmos-db/)
+
 ## DEMOs
 
 ### Azure Functions

@@ -1,0 +1,14 @@
+$myResourceGroup = Read-Host -prompt "Enter a resource group name: "
+$myLocation = Read-Host -prompt "Enter a location (ie. WestUS): "
+$myVM = Read-Host -prompt "Enter a VM name: "
+$vmAdmin = Read-Host -prompt "Enter a VM admin user name: "
+# The password must meet the length and complexity requirements.
+$vmPassword = Read-Host -prompt "Enter the admin password: "
+# create a resource group
+New-AzResourceGroup -Name $myResourceGroup -Location $myLocation
+# Create the virtual machine. When prompted, provide a username
+# and password to be used as the logon credentials for the VM.
+New-AzVm `
+ -ResourceGroupName $myResourceGroup `
+ -Name $myVM `
+ -Location $myLocation
