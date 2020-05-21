@@ -29,6 +29,7 @@
   - [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/#documentation)
   - [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/)
   - [Azure Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/)
+  - [Azure API Management](https://docs.microsoft.com/es-es/azure/api-management/)
 
 ## DEMOs
 
@@ -44,4 +45,8 @@
 - [From Console App](https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-net-v3)
 - [From VM](https://docs.microsoft.com/en-us/azure/key-vault/secrets/tutorial-net-linux-virtual-machine)
 - [Azure Configuration from ASP.NET Core](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-aspnet-core-app)
-- [](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core)
+- [Add feature flags to ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-feature-flag-aspnet-core)
+
+### Azure API Management
+- [Swagger](https://docs.microsoft.com/es-es/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1)
+- [Tutotial API Management](https://docs.microsoft.com/es-es/azure/api-management/import-and-publish)
