@@ -30,6 +30,8 @@
   - [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/)
   - [Azure Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/)
   - [Azure API Management](https://docs.microsoft.com/es-es/azure/api-management/)
+  - [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/)
+  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/)
 
 ## DEMOs
 
@@ -49,4 +51,4 @@
 
 ### Azure API Management
 - [Swagger](https://docs.microsoft.com/es-es/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1)
-- [Tutotial API Management](https://docs.microsoft.com/es-es/azure/api-management/import-and-publish)
+- [Tutorial API Management](https://docs.microsoft.com/es-es/azure/api-management/import-and-publish)
