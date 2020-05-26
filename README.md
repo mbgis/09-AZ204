@@ -29,9 +29,12 @@
   - [Azure Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/#documentation)
   - [Azure Key Vault](https://docs.microsoft.com/en-us/azure/key-vault/)
   - [Azure Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/)
-  - [Azure API Management](https://docs.microsoft.com/es-es/azure/api-management/)
+  - [Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/)
   - [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/)
   - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/)
+  - [Azure Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/)
+  - [Azure Event Hubs](https://docs.microsoft.com/en-us/azure/event-hubs/)
+  - [Azure Notification Hubs](https://docs.microsoft.com/en-us/azure/notification-hubs/)
 
 ## DEMOs
 
