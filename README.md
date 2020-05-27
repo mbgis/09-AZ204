@@ -12,6 +12,13 @@
 - [Store data in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/)
 - [Introduction to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/)
 - [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
+- [Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/)
+- [API Management - Browse Modules](https://docs.microsoft.com/en-us/learn/browse/?term=api%20management)
+- [Azure Logic Apps - Browse Modules](https://docs.microsoft.com/en-us/learn/browse/?term=Logic%20apps)
+- [Azure Event Grid](https://docs.microsoft.com/en-us/learn/modules/react-to-state-changes-using-event-grid/)
+- [Azure Event Hubs](https://docs.microsoft.com/en-us/learn/modules/enable-reliable-messaging-for-big-data-apps-using-event-hubs/)
+- [Azure Service Bus](https://docs.microsoft.com/en-us/learn/modules/implement-message-workflows-with-service-bus/)
+
 
 ## Microsoft Learn route - Spanish
 
@@ -33,8 +40,11 @@
   - [Azure Application Gateway](https://docs.microsoft.com/en-us/azure/application-gateway/)
   - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/)
   - [Azure Event Grid](https://docs.microsoft.com/en-us/azure/event-grid/)
+    - [Compare Message Services](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services)
   - [Azure Event Hubs](https://docs.microsoft.com/en-us/azure/event-hubs/)
   - [Azure Notification Hubs](https://docs.microsoft.com/en-us/azure/notification-hubs/)
+  - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/)
+  - [Azure Queue Storage](https://docs.microsoft.com/en-us/azure/storage/queues/)
 
 ## DEMOs
 
@@ -55,3 +65,7 @@
 ### Azure API Management
 - [Swagger](https://docs.microsoft.com/es-es/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-3.1)
 - [Tutorial API Management](https://docs.microsoft.com/es-es/azure/api-management/import-and-publish)
+
+### Azure Storage
+- [Azure Blob Storage](https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/)
+- [Azure Queue Storage](https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/)
