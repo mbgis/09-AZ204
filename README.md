@@ -45,6 +45,9 @@
   - [Azure Notification Hubs](https://docs.microsoft.com/en-us/azure/notification-hubs/)
   - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/)
   - [Azure Queue Storage](https://docs.microsoft.com/en-us/azure/storage/queues/)
+  - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)
+  - [Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
+  - [Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/)
 
 ## DEMOs
 
@@ -69,3 +72,7 @@
 ### Azure Storage
 - [Azure Blob Storage](https://docs.microsoft.com/en-us/learn/modules/store-app-data-with-azure-blob-storage/)
 - [Azure Queue Storage](https://docs.microsoft.com/en-us/learn/modules/communicate-between-apps-with-azure-queue-storage/)
+
+### Cloud design pattern
+- [Patrones de diseño en la nube](https://docs.microsoft.com/es-es/azure/architecture/patterns/)
+- [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
