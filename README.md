@@ -76,3 +76,10 @@
 ### Cloud design pattern
 - [Patrones de diseño en la nube](https://docs.microsoft.com/es-es/azure/architecture/patterns/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+- [.NET Architecture Guides](https://dot.net/architecture)
+
+## SAMPLE/REAL PROJECTS
+- [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+- [TailwindTraders](https://github.com/Microsoft/TailwindTraders)
+- [RockPaperScissorsLizardSpock](https://github.com/Microsoft/RockPaperScissorsLizardSpock)
+- [SmartHotel360](https://github.com/Microsoft/SmartHotel360)
