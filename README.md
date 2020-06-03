@@ -8,8 +8,12 @@
 ## Microsoft Learn route
 
 - [Deploy a website to Azure with Azure App Service](https://docs.microsoft.com/en-us/learn/paths/deploy-a-website-with-azure-app-service/)
+- [Create and publish a web application with Azure App Service and Visual Studio Code](https://docs.microsoft.com/en-us/learn/modules/create-publish-webapp-app-service-vs-code/)
+- [Azure Service Deployments Slots](https://docs.microsoft.com/en-us/learn/modules/stage-deploy-app-service-deployment-slots/)
 - [Create serverless applications](https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
 - [Store data in Azure](https://docs.microsoft.com/en-us/learn/paths/store-data-in-azure/)
+- [Distribute your data globally with Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/modules/distribute-data-globally-with-cosmos-db/)
+- [Optimize the performance of Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/modules/monitor-and-scale-cosmos-db/)
 - [Introduction to Azure virtual machines](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-virtual-machines/)
 - [Administer containers in Azure](https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/)
 - [Azure Key Vault](https://docs.microsoft.com/en-us/learn/modules/configure-and-manage-azure-key-vault/)
@@ -51,6 +55,9 @@
 
 ## DEMOs
 
+### Azure App Service
+- [Deployment Center - Automatic Deployment](https://docs.microsoft.com/es-es/azure/app-service/deploy-continuous-deployment)
+
 ### Azure Functions
 - [Desarrollo de Azure Functions con Visual Studio Code](https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code?tabs=csharp)
 - [Creación de función durable en c#](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-create-first-csharp?pivots=code-editor-vscode)
@@ -77,6 +84,9 @@
 - [Patrones de diseño en la nube](https://docs.microsoft.com/es-es/azure/architecture/patterns/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [.NET Architecture Guides](https://dot.net/architecture)
+
+### Azure DevOps Labs
+- [Azure DevOps Labs](https://azuredevopslabs.com/)
 
 ## SAMPLE/REAL PROJECTS
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
