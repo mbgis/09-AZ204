@@ -53,6 +53,10 @@
   - [Azure Application Insights](https://docs.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview)
   - [Azure Cache for Redis](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/)
 
+## Others References
+
+  - [Azure Durable Functions](https://mikhail.io/2018/12/making-sense-of-azure-durable-functions/) 
+
 ## DEMOs
 
 ### Azure App Service
